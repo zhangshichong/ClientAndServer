@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClientAndServer.iml" filepath="$PROJECT_DIR$/ClientAndServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/tcp_client.iml" filepath="$PROJECT_DIR$/client/tcp_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/tcp_server.iml" filepath="$PROJECT_DIR$/server/tcp_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udp_receiver/udp_receiver.iml" filepath="$PROJECT_DIR$/udp_receiver/udp_receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udp_sender/udp_sender.iml" filepath="$PROJECT_DIR$/udp_sender/udp_sender.iml" />
+    </modules>
+  </component>
+</project>
